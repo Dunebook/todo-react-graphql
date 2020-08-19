@@ -9,7 +9,9 @@
   "author": "Kelvin Gobo",
   "license": "MIT",
   "dependencies": {
+    "apollo-server-express": "^2.16.1",
     "cors": "^2.8.5",
+    "express": "^4.17.1",
     "nodemon": "^2.0.2"
   }
 }
